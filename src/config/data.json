@@ -1,0 +1,55 @@
+[
+  {
+    "question": "What is color of sky in night?",
+    "id": 1,
+    "next": "true",
+    "previous": "false",
+    "submit": "false",
+    "ans": "black",
+    "option": [
+      "blue",
+      "white",
+      "black",
+      "grey"
+    ]
+  },
+  {
+    "question": "What is color of orange?",
+    "id": 2,
+    "next": "true",
+    "previous": "true",
+    "submit": "false",
+    "ans": "orange",
+    "option": [
+      "blue",
+      "orange"
+    ]
+  },
+  {
+    "question": "Which is a continent?",
+    "id": 3,
+    "next": "true",
+    "previous": "true",
+    "submit": "false",
+    "ans": "Asia",
+    "option": [
+      "Asia",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "question": "12 * 12 = ?",
+    "id": 4,
+    "next": "false",
+    "previous": "true",
+    "submit": "true",
+    "ans": "144",
+    "option": [
+      "144",
+      "134",
+      "102",
+      "199"
+    ]
+  }
+]
